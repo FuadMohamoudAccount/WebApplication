@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React from "react";
 import moment from "moment"; //This is being imported for each forecast, CHANGE!
 
 function Forecast(props) {
